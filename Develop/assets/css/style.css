@@ -31,6 +31,7 @@ p {
 }
 
 
+/* Navigation Bar Component */
 
 .header {
     padding: 20px;
@@ -66,6 +67,9 @@ p {
 }
 
 
+/* Hero Component */
+
+
 .hero {
     height: 800px;
     width: 100%;
@@ -74,6 +78,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+
+/* Content Component */
 
 .float-left {
     float: left;
@@ -105,6 +112,9 @@ p {
     max-height: 200px;
 }
 
+
+/* Benfits Component */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -126,6 +136,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+
+/* Footer Component */
 
 .footer {
     padding: 30px;
