@@ -33,14 +33,14 @@ p {
 
 /* Navigation Bar Component */
 
-.header {
+.nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.logo_name .seo {
+.nav-heading .seo {
     color: #d9dcd6;
 }
 
@@ -52,16 +52,16 @@ p {
     font-size: 20px;
 }
 
-.list_items {
+.list-items {
     list-style-type: none;
 }
 
-.item_list {
+.item-list {
     display: inline-block;
     margin-left: 25px;
 }
 
-.link_item {
+.link-item {
     color: #ffffff;
     text-decoration: none;
 }
@@ -108,7 +108,7 @@ p {
 }
 
 
-.service_img {
+.service-img {
     max-height: 200px;
 }
 
